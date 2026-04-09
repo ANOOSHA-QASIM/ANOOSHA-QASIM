@@ -72,12 +72,7 @@ Whether you want to collaborate on an AI project or need a high-end frontend sol
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANOOSHA-QASIM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anusha's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANOOSHA-QASIM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+ANOOSHA-QASIM
 
 <p align="center">
   <i>"Building intelligent solutions, one project at a time."</i> 🚀
