@@ -3,7 +3,7 @@
 ### 🌐 Frontend Developer | AI & Chatbot Specialist | Agentic AI Enthusiast
 **From Karachi, Pakistan 🇵🇰**
 
-I am a Frontend Developer focused on building intelligent, high-performance web interfaces. I specialize in the **MERN stack**, **Next.js**, and integrating **Agentic AI** using tools like **Claude Code**, **OpenAI SDK**, and **Docker**.
+I am a Frontend Developer focused on building intelligent, high-performance web interfaces. I specialize in the **MERN stack**, **Next.js**, and integrating **Agentic AI** using **Claude Code**, **OpenAI SDK**, and **Docker**.
 
 ---
 
@@ -23,17 +23,11 @@ I am a Frontend Developer focused on building intelligent, high-performance web 
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
 
-#### **Tools & Databases**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ---
 
 ### 🔥 What I Do
 
-I design smart, scalable systems by combining modern frontend frameworks with advanced AI technologies. My workflow involves **Spec-Driven Development** and **Context Engineering** to build tools that aren't just functional but intelligent.
+I design smart, scalable systems by combining modern frontend frameworks with advanced AI technologies. My workflow involves **Spec-Driven Development** and **Context Engineering**.
 
 * **AI Developer:** Expert in building Automated Task Managers and Chatbots using **Claude AI** and **OpenAI Agents SDK**.
 * **Frontend Expert:** Crafting responsive, type-safe UIs with **Next.js** and **TypeScript**.
@@ -44,9 +38,9 @@ I design smart, scalable systems by combining modern frontend frameworks with ad
 ### 🚀 I Specialize In
 
 * **Agentic AI & Prompt Engineering:** Leveraging Claude Code and OpenAI for autonomous agent development.
-* **Full-Stack Dashboards:** Building complex CMS and SaaS applications (e.g., Resume Builders, E-commerce).
-* **Spec-Driven Development:** Turning technical specifications into robust codebases efficiently.
-* **Performance Optimization:** Ensuring fast load times and smooth navigation in Next.js apps.
+* **Full-Stack Dashboards:** Building complex CMS and SaaS applications.
+* **Spec-Driven Development:** Efficiently turning technical specs into robust codebases.
+* **Performance Optimization:** Ensuring smooth navigation and fast load times.
 
 ---
 
@@ -65,14 +59,15 @@ I design smart, scalable systems by combining modern frontend frameworks with ad
 
 ### 🤝 Let's Connect
 
-Whether you want to collaborate on an AI project or need a high-end frontend solution, I'm always open to new opportunities.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-qasim)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushatech333@gmail.com)
 
 ---
 
-ANOOSHA-QASIM
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANOOSHA-QASIM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anusha Qasim Stats" />
+</p>
 
 <p align="center">
   <i>"Building intelligent solutions, one project at a time."</i> 🚀
