@@ -1,57 +1,82 @@
-# Hi there, I'm Anusha Qasim 👋 
+# 👋 Hello, I'm Anusha Qasim!
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ANOOSHA-QASIM&label=Profile%20views&color=0e75b6&style=flat" alt="ANOOSHA-QASIM" />
-</p>
+### 🌐 Frontend Developer | AI & Chatbot Specialist | Agentic AI Enthusiast
+**From Karachi, Pakistan 🇵🇰**
 
-### 🚀 Frontend Developer | AI & Chatbot Specialist
-I build modern, high-performance web interfaces and specialize in integrating intelligent AI solutions into the MERN stack. Currently pushing the boundaries of **Agentic AI** and **Automation**.
-
-- 🌍 Based in **Karachi, Pakistan** 🇵🇰
-- 🎓 Student at **GIAIC (Quarter 4)** - Specializing in Full-Stack & AI
-- ⚡ Fun fact: I love turning complex logic into clean, minimalist UI designs.
+I am a Frontend Developer focused on building intelligent, high-performance web interfaces. I specialize in the **MERN stack**, **Next.js**, and integrating **Agentic AI** using tools like **Claude Code**, **OpenAI SDK**, and **Docker**.
 
 ---
 
-### 🛠 Tech Toolbox
+### 💼 Tech Toolbox 🧰
 
-#### 🌐 Frontend & Core
+#### **Frontend & Core Development**
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### 🤖 AI & Automation
+#### **AI, Backend & Automation**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+#### **Tools & Databases**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🔥 What I’m Working On
-- **AI-Powered SaaS**: Developing full-stack applications with integrated agentic chatbots.
-- **Workflow Automation**: Building smart bridges between apps using n8n and Python.
-- **Modern UI/UX**: Mastering premium, minimalist design systems with Tailwind CSS.
+### 🔥 What I Do
+
+I design smart, scalable systems by combining modern frontend frameworks with advanced AI technologies. My workflow involves **Spec-Driven Development** and **Context Engineering** to build tools that aren't just functional but intelligent.
+
+* **AI Developer:** Expert in building Automated Task Managers and Chatbots using **Claude AI** and **OpenAI Agents SDK**.
+* **Frontend Expert:** Crafting responsive, type-safe UIs with **Next.js** and **TypeScript**.
+* **Automation Architect:** Creating seamless workflows using **n8n** and **Python** scripts.
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 I Specialize In
+
+* **Agentic AI & Prompt Engineering:** Leveraging Claude Code and OpenAI for autonomous agent development.
+* **Full-Stack Dashboards:** Building complex CMS and SaaS applications (e.g., Resume Builders, E-commerce).
+* **Spec-Driven Development:** Turning technical specifications into robust codebases efficiently.
+* **Performance Optimization:** Ensuring fast load times and smooth navigation in Next.js apps.
+
+---
+
+### 📌 Featured Projects
+
+* **Automated Task Management:** Built with Claude AI, featuring natural-language task creation.
+* **Interactive Resume Builder:** A type-safe platform with live previews and clean UX.
+* **AI-Powered E-Commerce:** Structured product listings with integrated smart features.
+
+---
+
+### 🧠 Currently Improving...
+**Gen AI Agentic AI**, **Advanced Docker Orchestration**, **Full-Stack AI Patterns**.
+
+---
+
+### 🤝 Let's Connect
+
+Whether you want to collaborate on an AI project or need a high-end frontend solution, I'm always open to new opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-qasim)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushatech333@gmail.com)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ANOOSHA-QASIM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anusha's GitHub Stats" height="150" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANOOSHA-QASIM&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ANOOSHA-QASIM&show_icons=true&theme=tokyonight&hide_border=true" alt="Anusha's Stats" />
 </p>
 
----
-
-### 🤝 Let's Connect!
-<p align="left">
-<a href="https://linkedin.com/in/anusha-qasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anusha-qasim" height="30" width="40" /></a>
-<a href="mailto:anushatech333@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="anusha-qasim" height="30" width="40" /></a>
-</p>
-
 <p align="center">
-  <i>"Building intelligent solutions, one line of code at a time."</i> 🚀
+  <i>"Building intelligent solutions, one project at a time."</i> 🚀
 </p>
